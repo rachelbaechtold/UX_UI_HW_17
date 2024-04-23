@@ -33,7 +33,12 @@ footer {
         vertical-align: top;
         padding: 25px;
     }
+    li {
+        color: white;
+    }
 }
 li {
-    padding: 25px; 
+    display: inline-block;
+    vertical-align: top;
+    padding: 25px;
 }
